@@ -1,2 +1,2 @@
-# amos-ss2021-emba-service
-EMBA Service (AMOS SS 2021)
+# amos-ss20xx-project-template
+Fabulous project(AMOS SS 20xx)
