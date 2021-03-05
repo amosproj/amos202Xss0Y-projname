@@ -1,2 +1,2 @@
-# Fabulous project (AMOS SS 20xx)
+# Fabulous Project (AMOS SS 20xx)
 Something something something
