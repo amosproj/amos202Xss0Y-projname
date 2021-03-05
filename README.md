@@ -1,2 +1,2 @@
-# amos-ss20xx-project-template
-Fabulous project (AMOS SS 20xx)
+# Fabulous project (AMOS SS 20xx)
+Something something something
